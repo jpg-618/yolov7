@@ -1,3 +1,2 @@
 # yolov7
-split.py,xml2txt.py,generate三个代码均来自csdn，
-split.py为划分数据集。generate,py为生成标签txt，xml2txt.py为转换代码
+splitdataset.py为划分数据集。validtxt.py为验证标签txt，json2txt.py为转换代码，clip01-为限制txt在0-1之间
